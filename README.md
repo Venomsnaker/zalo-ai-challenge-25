@@ -272,3 +272,7 @@ Each team is allowed up to 2 submissions. The organizer will only evaluate the l
 Note: By the end of November or the beginning of December, the top 5 teams from the qualification phase of the AeroEyes - Finding and Rescuing with AI-Powered Drones are expected to compete offline in Ho Chi Minh City. Each team will be responsible for their own participation expenses.
 
 The organizer will evaluate the submitted solutions to verify results, review source code, and detect any cheating. The top 2 teams will be announced on December 11
+
+## Usage detection
+- Use `convert_to_coco_format.py` to convert original dataset to COCO format for training.
+- Use `finetune_object_detection.ipynb` to finetune object detection model on the dataset.
