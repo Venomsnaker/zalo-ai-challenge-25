@@ -1,0 +1,9 @@
+[project]
+name = "zalo-ai-challenge-25"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ultralytics>=8.3.226",
+]
