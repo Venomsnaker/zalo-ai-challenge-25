@@ -1,9 +1,11 @@
 [project]
 name = "zalo-ai-challenge-25"
 version = "0.1.0"
-description = "Add your description here"
+description = "Zalo AI Challenge 2025 w/ YOLOe"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "ultralytics>=8.3.226",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+    "ultralytics>=8.3.228",
 ]
