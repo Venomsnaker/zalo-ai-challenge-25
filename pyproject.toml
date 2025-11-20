@@ -5,6 +5,9 @@ description = "Zalo AI Challenge 2025 w/ YOLOe"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "imagecodecs>=2025.11.11",
+    "sahi>=0.11.36",
+    "scikit-image>=0.25.2",
     "torch>=2.9.1",
     "torchvision>=0.24.1",
     "ultralytics>=8.3.228",
