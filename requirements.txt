@@ -1,0 +1,13 @@
+# docker image: pytorch/pytorch:1.12.1-cuda11.3-cudnn8-devel
+# apt update; apt-get -y install libgl1-mesa-glx libglib2.0-0 vim; apt -y install python3-pip
+# pip install jupyterlab
+# pip install -r requirements.txt
+# pip install numpy
+opencv-python==4.8.1.78
+ultralytics
+torch
+torchvision
+transformers
+pyyaml
+numpy
+gdown

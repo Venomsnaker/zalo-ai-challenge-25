@@ -1,0 +1,8 @@
+opencv-python==4.8.1.78
+ultralytics
+torch
+torchvision
+transformers
+pyyaml
+numpy
+gdown
